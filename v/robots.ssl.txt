@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Sitemap: https://portraitofprotesters.cargo.site/sitemap.xml
+
+# disallow CuteStat
+User-agent: CuteStat
+Disallow: /
