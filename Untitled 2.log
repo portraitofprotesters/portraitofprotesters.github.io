@@ -1,12 +1,6 @@
 
-27.02.21, 19:24:33 - ERROR: Download of "https://portraitofprotesters.cargo.site/rss", referred from "/Users/inovik/Downloads/us.sitesucker.mac.sitesucker/portraitofprotesters.cargo.site/index.html", failed with error code 404 (not found)
-27.02.21, 19:24:34 - ERROR: Download of "https://static.cargo.site", referred from "/Users/inovik/Downloads/us.sitesucker.mac.sitesucker/portraitofprotesters.cargo.site/index.html", failed with error code 403 (forbidden)
-27.02.21, 19:24:34 - ERROR: Download of "https://type.cargo.site", referred from "/Users/inovik/Downloads/us.sitesucker.mac.sitesucker/portraitofprotesters.cargo.site/index.html", failed with error code 403 (forbidden)
-
----------------------
-
-27.02.21, 19:34:54 - ERROR: Download of "https://portraitofprotesters.cargo.site/rss", referred from "/Users/inovik/Downloads/us.sitesucker.mac.sitesucker/portraitofprotesters.cargo.site/index.html", failed with error code 404 (not found)
-27.02.21, 19:34:55 - ERROR: Download of "https://static.cargo.site", referred from "/Users/inovik/Downloads/us.sitesucker.mac.sitesucker/portraitofprotesters.cargo.site/index.html", failed with error code 403 (forbidden)
-27.02.21, 19:34:55 - ERROR: Download of "https://type.cargo.site", referred from "/Users/inovik/Downloads/us.sitesucker.mac.sitesucker/portraitofprotesters.cargo.site/index.html", failed with error code 403 (forbidden)
+28.02.21, 03:11:30 - ERROR: Download of "https://portraitofprotesters.cargo.site/rss", referred from "/Users/inovik/Downloads/site/portraitofprotesters.cargo.site/index.html", failed with error code 404 (not found)
+28.02.21, 03:11:31 - ERROR: Download of "https://static.cargo.site", referred from "/Users/inovik/Downloads/site/portraitofprotesters.cargo.site/index.html", failed with error code 403 (forbidden)
+28.02.21, 03:11:31 - ERROR: Download of "https://type.cargo.site", referred from "/Users/inovik/Downloads/site/portraitofprotesters.cargo.site/index.html", failed with error code 403 (forbidden)
 
 ---------------------
