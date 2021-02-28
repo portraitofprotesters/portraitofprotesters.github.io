@@ -19,7 +19,12 @@ i,
 em {
   font-style: italic;
 }
-
+video {
+  pointer-events: none;
+}
+video::-webkit-media-controls-start-playback-button {
+  display: none;
+}
 b,
 strong {
   font-weight: bold;
@@ -48,12 +53,6 @@ img {
   padding: 0;
 }
 
-video {
-  pointer-events: none;
-}
-video::-webkit-media-controls-start-playback-button {
-  display: none;
-}
 ul,
 ol {
   margin: 0;
